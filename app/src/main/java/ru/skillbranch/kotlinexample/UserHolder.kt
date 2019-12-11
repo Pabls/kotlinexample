@@ -1,7 +1,7 @@
 package ru.skillbranch.kotlinexample
 
-import ru.skillbranch.kotlinexample.extentions.isValidPhone
-import ru.skillbranch.kotlinexample.extentions.trimPhone
+import ru.skillbranch.kotlinexample.extensions.isValidPhone
+import ru.skillbranch.kotlinexample.extensions.trimPhone
 
 
 object UserHolder {

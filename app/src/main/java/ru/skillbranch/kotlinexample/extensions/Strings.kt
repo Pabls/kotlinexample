@@ -1,4 +1,4 @@
-package ru.skillbranch.kotlinexample.extentions
+package ru.skillbranch.kotlinexample.extensions
 
 fun String.isValidPhone() = this.trimPhone().matches(Regex("^\\+\\d{11}"))
 
